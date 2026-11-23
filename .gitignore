@@ -1,0 +1,9 @@
+node_modules/
+.DS_Store
+*.log
+tmp/
+temp/
+*.mp4
+!examples/finished-film/*.mp4
+.env
+.env.*
