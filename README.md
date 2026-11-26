@@ -1,6 +1,7 @@
 # ai-photo-to-film-kit
 
 Turn still photos into a cinematic AI video: 38 copy-paste prompts for Kling, Runway, Wan and Veo, complete wedding, anniversary and proposal storyboards, a Claude skill, and an ffmpeg assembly script.
+Try it now, no install: https://vietdat.github.io/ai-photo-to-film-kit/
 
 ## The problem this solves
 
